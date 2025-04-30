@@ -88,6 +88,11 @@ The GUI built with PyQt5 includes:
 
 [![Live Demostration Take 1](https://img.youtube.com/vi/DtQAx4mQFKQ/0.jpg)](https://youtu.be/DtQAx4mQFKQ) 
 
+**Live Demonstration Test 2 with GUI:**
+
+[![Live Demostration Take 2](https://img.youtube.com/vi/EEqiLhgY0YM/0.jpg)](https://youtu.be/EEqiLhgY0YM) 
+
+
 
 ---
 
