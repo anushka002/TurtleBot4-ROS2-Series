@@ -1,7 +1,5 @@
 # Intelligent TurtleBot4: Voice-Guided Object Detection and Navigation
 
----
-
 ## Project Overview
 
 Our project transforms the TurtleBot4 and a soon-to-be-mounted MyCobot robotic arm into an intelligent, multi-modal mobile manipulator. Leveraging ROS 2, the system integrates:
@@ -93,6 +91,14 @@ The GUI built with PyQt5 includes:
 [![Live Demostration Take 2](https://img.youtube.com/vi/EEqiLhgY0YM/0.jpg)](https://youtu.be/EEqiLhgY0YM) 
 
 
+**🌟 Innovation Showcase at Arizona State University | Spring 2025 🌟**
+
+[![Watch on YouTube](https://img.youtube.com/vi/K1KcAVdhhBg/0.jpg)](https://youtu.be/K1KcAVdhhBg)  
+
+We presented "Intelligent Voice-Guided Mobile Manipulator: Real-Time Object Detection and Autonomous Navigation Using TurtleBot4 and MyCobot Robot Arm" at the Innovation Showcase hosted at ASU - The Polytechnic School! 
+This was our final project for the course RAS 598: Experimentation and Deployment of Robots, led by Professor Dan Aukes.
+
+💡Our project featured a live demo and poster presentation of an autonomous, voice-guided robot that combines real-time speech interaction, object detection, and navigation — built on TurtleBot4 and enhanced with a MyCobot arm. 
 
 ---
 
