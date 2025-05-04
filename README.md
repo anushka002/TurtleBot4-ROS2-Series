@@ -122,7 +122,8 @@ The GUI built with PyQt5 includes:
 2. [Speech Recognition in Python](https://pypi.org/project/SpeechRecognition/)
 3. [TurtleBot4 ROS2 Tutorials](https://turtlebot.github.io/turtlebot4-user-manual/)
 4. [TurtleBot4 Navigation Guide](https://turtlebot.github.io/turtlebot4-user-manual/tutorials/turtlebot4_navigator.html)
-
+5. [TurtleBot4 Hardware](https://github.com/turtlebot/turtlebot4-hardware)
+6. [TurtleBot4 Tutorials](https://turtlebot.github.io/turtlebot4-user-manual/tutorials/)
 ---
 
 ## Weekly Milestones
